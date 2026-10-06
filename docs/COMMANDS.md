@@ -32,7 +32,7 @@ git checkout -b feature/login
 ## Commit and push feature
 ```bash
 git add .
-git commit -m "feat: add login page"
+git commit -m "feature: add login page"
 git push -u origin feature/login
 ```
 
